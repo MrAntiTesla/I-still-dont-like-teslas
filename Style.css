@@ -1,0 +1,39 @@
+body {
+  text-align:center;
+}
+h3 {
+  font-size: 25px;
+  color: blueviolet;
+}
+#Image {
+background: linear-gradient(#20c8cb 0%,#218bcc 100%);
+}
+#app {
+width: 100%;
+height: 800px;
+background-color: aqua;    
+}
+.line {
+height: 6px;
+background-color: azure;
+width: 80px;
+margin: 8px auto;    
+}
+#games {
+width: 100%;
+height: 800px;
+background-color: blueviolet;    
+}
+img {
+transition: transform .2s;
+}
+img:hover {
+transform: scale(0.9);
+}
+p {
+font-size: 30px;    
+}
+#chatbot {
+width: 100%;
+height: 800px;
+background-color: blue;    
